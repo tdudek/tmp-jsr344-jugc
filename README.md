@@ -1,6 +1,6 @@
 Hallo zusammen,
 
-da die Infektionswelle ordentlich zugeschlagen hat und das Interesse an dem Thema , hier für alle Interessierten eine Übersicht des gestrigen Treffens.
+da die Infektionswelle ordentlich zugeschlagen hat und das Interesse an dem Thema groß war, hier für alle Interessierten eine Übersicht des gestrigen Treffens.
 
 # JSF 2.2 Workshop - Adopt a JSR #
 
