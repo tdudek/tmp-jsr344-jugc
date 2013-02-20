@@ -40,7 +40,7 @@ Zwei mögliche Ausgangslagen an Infrastruktur sollen thematisiert werden:
  ...weil es in der freien Wildbahn administrative und infrastrukturelle Handicaps gibt, z.B. Admins, die nur den Tomcat kennen oder mangelnde EE Unterstützung bei Cloud-Anbieter (wie etwa Heroku). Somit wäre unser Tutorial auch "cloud-ready" (buzzword alarm).
 
 
-## JSF 2.2 Features ## 
+## JSF 2.2 Features ##
 Das Project soll folgende Bestandteile des JSR 344 integrieren / evaluieren:
 
  * Bookmarkability 
